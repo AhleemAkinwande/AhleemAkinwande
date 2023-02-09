@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleemakinwande&count_private=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleemakinwande&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleemakinwande&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
 
