@@ -1,9 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React, Node, Next, and Java
-- 👯 I’m looking to collaborate on open-source projects looking for a helping hand
-- 📫 How to reach me: linkedin www.linkedin.com/in/ahleem-akinwande
-- 😄 Pronouns: he/him
+Ahleem Akinwande
+Freelance Developer | Java | JavaScript | Spring | Angular | MySQL
+
+😄 Pronouns: he/him
+🚀 Passionate about crafting innovative solutions and building impactful applications.
+🌟 Notable Projects: Meander App and LaunchCode Capstone, with ongoing contributions.
+🌱 I’m currently learning React, Next, and AWS
+🌍 With a background as a Parole Officer, I bring a unique perspective to software engineering.
+🔑 Committed to creating inclusive and accessible technology for all.
+💡 Constantly exploring new technologies and seeking ways to bridge the gap between tech and social impact.
+👯 I’m looking to collaborate on open-source projects looking for a helping hand
+
+Let's connect and collaborate on meaningful projects!
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleemakinwande&count_private=true)]
 
