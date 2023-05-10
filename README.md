@@ -11,6 +11,8 @@ Freelance Developer | Java | JavaScript | Spring | Angular | MySQL
 - 🔑 Committed to creating inclusive and accessible technology for all.
 - 💡 Constantly exploring new technologies and seeking ways to bridge the gap between tech and social impact.
 - 👯 I’m looking to collaborate on open-source projects looking for a helping hand
+- - 📫 How to reach me: linkedin.com/in/ahleem-akinwande
+
 
 Let's connect and collaborate on meaningful projects!
 
