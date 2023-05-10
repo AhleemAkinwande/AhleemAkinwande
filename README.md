@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Ahleem Akinwande
+
 Freelance Developer | Java | JavaScript | Spring | Angular | MySQL
 
 - 😄 Pronouns: he/him
